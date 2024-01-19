@@ -355,7 +355,7 @@ template {
 }
 
 #home {
-  background-image: url(https://image.ibb.co/kPHQpT/bg.png);
+  background-image: url(images/ma.jpg);
   background-repeat: no-repeat;
   background-position: 50% 0;
   background-attachment: fixed;
@@ -548,7 +548,7 @@ h1 {
   border-radius: 50%;
   text-align: center;
   margin: 0 4px;
-  color: tomato;
+  color: #000000;
   background-color: #fff;
 }
 
@@ -558,7 +558,7 @@ h1 {
 }
 
 .social-icon a {
-  color: tomato;
+  color: #000000;
   transition: color 0.3s ease-in-out;
 }
 
@@ -588,7 +588,7 @@ h1 {
 @media all and (min-width: 768px) {
   .register-btn {
     margin: 2em 0;
-    background-color: #42a8bf;
+    background-color: #000000;
     border: 2px solid #fff;
   }
 }
